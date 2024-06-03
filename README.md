@@ -69,9 +69,9 @@ Based on the financial analysis, here are some key recommendations:
 
 For a more detailed analysis, refer to the following files:
 
-- `Portafolio_Inversion.xlsx`: Detailed portfolio optimization results.
-- `Analisis_visualizacion.pbix`: Comprehensive visualizations of the analysis.
-- `Analysis.ipynb`: In-depth analytical procedures.
+- `Results.xlsx`: Detailed portfolio optimization results.
+- `.png`: Comprehensive visualizations of the analysis.
+- `Codigo_Proyect.R`: In-depth analytical procedures.
 
 ---
 
