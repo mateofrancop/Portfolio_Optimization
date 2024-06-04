@@ -55,7 +55,7 @@ The efficient frontier represents a range of portfolios that provide the highest
 
 ![Efficient Frontier](https://i.imgur.com/Z32RplP.png[/img])
 
-It is observed that the Markowitz model assigned weight to companies with the best risk/return ratio and also considered the correlation between them to minimize risk. In this case, Uber and the Chilean ETF IUIT diversify into Chilean technology companies. Historically, Uber has had very high returns, albeit with moderate volatility, and IUIT has had balanced risk and return. On the other hand, although Nubank had good returns, the model decides not to allocate weight to it in the optimal portfolio due to its not high level of risk compared to the return. Finally, it should be noted that the Markowitz model uses historical data, so a more in-depth study of the companies is recommended, as stocks do not tend to behave the same way over a prolonged period of time.
+It is observed that the Markowitz model assigned weight to companies with the best risk/return ratio and also considered the correlation between them to minimize risk. In this case, Uber and the Chilean ETF IUIT diversify into Chilean technology companies. Historically, Uber has had very high returns, albeit with moderate volatility, and IUIT has had balanced risk and return. On the other hand, although Nubank had good returns, the model decides not to allocate weight to it in the optimal portfolio due to its high level of risk compared to the return. Finally, it should be noted that the Markowitz model uses historical data, so a more in-depth study of the companies is recommended, as stocks do not tend to behave the same way over a prolonged period of time.
 
 ## Recommendations
 
@@ -71,7 +71,7 @@ For a more detailed analysis, refer to the following files:
 
 - `Results.xlsx`: Detailed portfolio optimization results.
 - `.png`: Comprehensive visualizations of the analysis.
-- `Codigo_Proyect.R`: In-depth analytical procedures.
+- `Codigo_Proyect.R`: code.
 
 ---
 
